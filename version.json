@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2-beta-1",
-  "can_UpdateVersions": ["1.0", "1.0.1-pre-1", "1.0.1-pre-2", "1.0.1"]
+  "version": "0.1",
+  "can_UpdateVersions": ["0.1"]
 }
